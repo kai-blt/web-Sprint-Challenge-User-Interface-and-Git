@@ -85,6 +85,7 @@ nav {
 
 h2 {
     font-weight: 900;
+    margin: 3% 0;
 }
 
 .jumbo {
@@ -105,6 +106,10 @@ h2 {
     margin: 2% 2.5%;
 }
 
+.aboutInfo {
+    margin: 0 2.5%;
+}
+
 .aboutDivider {
     border-top: 1px dashed #000;
     margin: 4% 0;
@@ -113,10 +118,21 @@ h2 {
 .aboutSection {
     display: flex;
     flex-flow: row wrap;
+    justify-content: space-between;
+    margin: 0 2%;
+}
+
+.aboutSection p {
+    margin: 4% 0;
 }
 
 .aboutSection div {
     width: 50%;
+}
+
+.aboutSection div .aboutDivider {
+    width: 95%;
+    margin-bottom: 10%;
 }
 
 .aboutBtn {
