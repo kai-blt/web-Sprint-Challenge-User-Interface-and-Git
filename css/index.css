@@ -23,6 +23,7 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
@@ -74,7 +75,6 @@ a {
 
 
 /*--Base CSS Begin--*/
-
 nav {
     display: flex;
     justify-content: space-between;
@@ -82,13 +82,17 @@ nav {
     margin: 4% 0;
 }
 
-
-
 h2 {
     font-weight: 900;
-    margin: 3% 0;
+    margin: 2% 0;
 }
 
+h3 {
+    margin: 4% 0;
+}
+
+
+/*----Jumbo Image Properties----*/
 .jumbo {
     background: url('/img/jumbo.jpg');
     background-repeat: no-repeat;
@@ -102,7 +106,7 @@ h2 {
 }
 
 
-/*--About Page CSS--*/
+/*----About Page CSS----*/
 .aboutTop {
     margin: 2% 2.5%;
 }
@@ -144,10 +148,10 @@ h2 {
     border: 2px solid #000;
     background-color: #fff;
 }
-/*--About Page CSS--*/
 
 
 
+/*----Top Content Properties----*/
 .container {
     width: 800px;
     margin: 0 auto;
@@ -167,6 +171,8 @@ h2 {
     padding-bottom: 20px;  
 }
 
+
+/*----Middle Content Properties----*/
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
@@ -183,7 +189,6 @@ h2 {
     justify-content: space-evenly;
 }
 
-
 .middle-content .boxes div {
     width: 12.5%;
     height: 100px;
@@ -194,7 +199,8 @@ h2 {
     justify-content: center;
 }
 
-/*--Boxes--*/
+
+/*----Boxes-----*/
 .box1 {
     background: teal;
 }
@@ -234,8 +240,10 @@ h2 {
 .box10 {
     background: dodgerblue;
 }
-/*--Boxes--*/
 
+
+
+/*----Bottom Content Properties----*/
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -250,6 +258,9 @@ h2 {
     padding-right: 0;
 }
 
+
+
+/*----Footer Properties----*/
 footer {
     width: 100%;
     background: black;
