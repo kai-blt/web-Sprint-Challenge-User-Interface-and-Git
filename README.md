@@ -42,10 +42,7 @@ Semantic HTML is a means to give value and specific meaning to elements on a web
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-Block level elements stretch to fill the entire width they are provided and always start on a new line. Inline content only fills the width necessary to render the content and fill in along side other content. Block elements can accept a width and height whereas inline cannot.
-
-
-
+***Block level elements stretch to fill the entire width they are provided and always start on a new line. Inline content only fills the width necessary to render the content and fill in along side other content. Block elements can accept a width and height whereas inline cannot.***
 
 
 3. What are the 4 areas of the box model?
@@ -53,24 +50,14 @@ Block level elements stretch to fill the entire width they are provided and alwa
 content, padding, border, margin
 
 
-
-
-
-
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
 align-items operates on the cross axis
 
 
-
-
-
 5. Explain why git is valuable to a team of developers.
 
 Git is valuable to developers because it is a version control software. This allows developers to not only keep track of their program changes, but allows them to roll back features if they are broken quickly and efficiently. It also helps developers collaborate on the same codebase with as few conflics as possible and saves the main branch of code from being altered beyond the point of saving should there be an issue.
-
-
-
 
 
 
@@ -87,9 +74,9 @@ You are expected to be able to answer all these questions. Your responses contri
  
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
-- [ ] Add your Team Lead as a reviewer on the pull-request
-- [ ] Your Team Lead will count the project as complete by merging the branch back into master.
+- [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+- [x] Add your Team Lead as a reviewer on the pull-request
+- [x] Your Team Lead will count the project as complete by merging the branch back into master.
  
 
 
