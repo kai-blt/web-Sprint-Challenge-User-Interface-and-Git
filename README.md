@@ -37,9 +37,15 @@ Edit this document to include your answers after each question. Make sure to lea
 Semantic HTML is a means to give value and specific meaning to elements on a website. Utilizing semantic tags affods better accessiblity for those who use screen readers, as those programs key into semantic tags to better layout information for those users. Additionally, semmantic tags are crawled and indexed by search engines such as Google which is important when getting into the world of SEO and SEM to rank higher in search. More contextually relevant content and not duplicated content, along with meaningful content all factor into website rankings.
 
 
+
+
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
 Block level elements stretch to fill the entire width they are provided and always start on a new line. Inline content only fills the width necessary to render the content and fill in along side other content. Block elements can accept a width and height whereas inline cannot.
+
+
+
 
 
 3. What are the 4 areas of the box model?
@@ -48,14 +54,23 @@ content, padding, border, margin
 
 
 
+
+
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
 align-items operates on the cross axis
 
 
+
+
+
 5. Explain why git is valuable to a team of developers.
 
 Git is valuable to developers because it is a version control software. This allows developers to not only keep track of their program changes, but allows them to roll back features if they are broken quickly and efficiently. It also helps developers collaborate on the same codebase with as few conflics as possible and saves the main branch of code from being altered beyond the point of saving should there be an issue.
+
+
+
 
 
 
