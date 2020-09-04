@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-Semantic HTML is a means to give value and specific meaning to elements on a website. Utilizing semantic tags affods better accessiblity for those who use screen readers, as those programs key into semantic tags to better layout information for those users. Additionally, semmantic tags are crawled and indexed by search engines such as Google which is important when getting into the world of SEO and SEM to rank higher in search. More contextually relevant content and not duplicated content, along with meaningful content all factor into website rankings.
+***Semantic HTML is a means to give value and specific meaning to elements on a website. Utilizing semantic tags affods better accessiblity for those who use screen readers, as those programs key into semantic tags to better layout information for those users. Additionally, semmantic tags are crawled and indexed by search engines such as Google which is important when getting into the world of SEO and SEM to rank higher in search. More contextually relevant content and not duplicated content, along with meaningful content all factor into website rankings.***
 
 
 
@@ -47,17 +47,17 @@ Semantic HTML is a means to give value and specific meaning to elements on a web
 
 3. What are the 4 areas of the box model?
 
-content, padding, border, margin
+***content, padding, border, margin***
 
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
-align-items operates on the cross axis
+***align-items operates on the cross axis***
 
 
 5. Explain why git is valuable to a team of developers.
 
-Git is valuable to developers because it is a version control software. This allows developers to not only keep track of their program changes, but allows them to roll back features if they are broken quickly and efficiently. It also helps developers collaborate on the same codebase with as few conflics as possible and saves the main branch of code from being altered beyond the point of saving should there be an issue.
+***Git is valuable to developers because it is a version control software. This allows developers to not only keep track of their program changes, but allows them to roll back features if they are broken quickly and efficiently. It also helps developers collaborate on the same codebase with as few conflics as possible and saves the main branch of code from being altered beyond the point of saving should there be an issue.***
 
 
 
