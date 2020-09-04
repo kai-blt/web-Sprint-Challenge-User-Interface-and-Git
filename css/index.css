@@ -183,7 +183,7 @@ h2 {
     justify-content: space-evenly;
 }
 
-/*--Boxes--*/
+
 .middle-content .boxes div {
     width: 12.5%;
     height: 100px;
@@ -194,6 +194,7 @@ h2 {
     justify-content: center;
 }
 
+/*--Boxes--*/
 .box1 {
     background: teal;
 }
@@ -233,7 +234,7 @@ h2 {
 .box10 {
     background: dodgerblue;
 }
-
+/*--Boxes--*/
 
 .bottom-content {
     display: flex;
@@ -261,6 +262,7 @@ footer nav {
     align-items: center;
     padding: 20px 2%;
     font-size: 14px;
+    font-weight: 500;
 }
 
 footer nav a {
