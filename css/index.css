@@ -66,6 +66,25 @@ p {
     line-height: 1.4;
 }
 
+a {
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin: 4% 0;
+}
+
+.jumbo {
+    background: url('/img/jumbo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 15vh;
+    margin-bottom: 4%;
+}
+
 .container {
     width: 800px;
     margin: 0 auto;
