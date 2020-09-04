@@ -70,11 +70,21 @@ a {
     text-decoration: none;
 }
 
+
+
+/*--Base CSS Begin--*/
+
 nav {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
     margin: 4% 0;
+}
+
+
+
+h2 {
+    font-weight: 900;
 }
 
 .jumbo {
@@ -91,13 +101,31 @@ nav {
 
 
 /*--About Page CSS--*/
-.aboutContainer {
+.aboutTop {
     margin: 2% 2.5%;
 }
 
 .aboutDivider {
     border-top: 1px dashed #000;
     margin: 4% 0;
+}
+
+.aboutSection {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.aboutSection div {
+    width: 50%;
+}
+
+.aboutBtn {
+    border-radius: 10px;
+    padding: 2.5% 3%;
+    font-size: 1rem;
+    font-weight: 700;
+    border: 2px solid #000;
+    background-color: #fff;
 }
 /*--About Page CSS--*/
 
